@@ -1,7 +1,7 @@
 npm install - установить зависимости
 npm run start - запуск
 
-Node.js, Express.js, PostgreSQL, Sequilize, Socket.IO
+Node.js, Express.js, PostgreSQL, Sequelize, Socket.IO
 
 Структура файлов:
 index.js - основной файл, в котором запускается сервер
